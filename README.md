@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Labib</h1>
 <h3 align="center">A passionate frontend developer from BanglaDesh</h3>
 
-<h3 align="left">Connect with me: https://fontawesome.com/icons/facebook-f?f=brands&s=solid</h3>
+<h3 align="left">Connect with me: <i class="fa-brands fa-facebook-f"></i></h3>
 <p align="left">
 </p>
 
